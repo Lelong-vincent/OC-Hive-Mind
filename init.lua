@@ -8,7 +8,8 @@ local folders = {
 }
 
 local files = {
-    "lib/utils.lua"
+    "lib/utils.lua",
+    "lib/vector.lua",
 }
 
 for _, folder in ipairs(folders) do
