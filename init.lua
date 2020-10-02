@@ -4,10 +4,12 @@ local repositoryUrl = "https://raw.githubusercontent.com/Lelong-vincent/OC-Hive-
 local libFolder = "hiveMind/"
 
 local folders = {
-    "lib"
+    "data",
+    "lib",
 }
 
 local files = {
+    "lib/map.lua",
     "lib/utils.lua",
     "lib/vector.lua",
 }
